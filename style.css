@@ -200,15 +200,5 @@ header h3{font-size: 2.5vh;color: #ffffff; font-family: verdana;
     align-items: flex-start;
     padding: 0.5vh 1vh;
 }
-.blanquito h1{
-    color: #656a73;
-    font-family: verdana; 
-    font-size: 1.5vh;
-    margin-bottom: 0.5vh;
-}
-.blanquito p{
-    color: #afafaf;
-    font-family: verdana; 
-    font-size: 1.3vh;
-    margin-bottom: 0.5vh;
-}
+.blanquito h1{color: #656a73;font-family: verdana;font-size: 1.5vh;margin-bottom: 0.5vh;}
+.blanquito p{ color: #afafaf;font-family: verdana;font-size: 1.3vh;margin-bottom: 0.5vh;}
